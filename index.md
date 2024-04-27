@@ -12,3 +12,8 @@
 ``` C#
 Console.WriteLine("Hello World!");
 ```
+
+### List
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
